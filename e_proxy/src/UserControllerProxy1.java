@@ -3,10 +3,7 @@
  */
 public class UserControllerProxy1 implements IUserController {
 
-    UserController userController;
-
-    public UserControllerProxy1() {
-    }
+    IUserController userController;
 
     public UserControllerProxy1(UserController userController) {
         this.userController = userController;
