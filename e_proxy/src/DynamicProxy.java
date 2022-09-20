@@ -45,5 +45,4 @@ public class DynamicProxy {
             return result;
         }
     }
-
 }
