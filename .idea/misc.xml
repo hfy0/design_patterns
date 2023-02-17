@@ -5,6 +5,7 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/a_singleton/pom.xml" />
+        <option value="$PROJECT_DIR$/HandlerChain/HandlerChain/pom.xml" />
       </list>
     </option>
   </component>

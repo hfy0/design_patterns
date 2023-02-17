@@ -9,7 +9,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="a_singleton" target="8" />
+      <module name="HandlerChain" target="1.8" />
+      <module name="singleton" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>
