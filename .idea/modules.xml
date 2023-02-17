@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/a_singleton/a_singleton.iml" filepath="$PROJECT_DIR$/a_singleton/a_singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/b_factory/b_factory.iml" filepath="$PROJECT_DIR$/b_factory/b_factory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/c_builder/c_builder.iml" filepath="$PROJECT_DIR$/c_builder/c_builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d_prototype/d_prototype.iml" filepath="$PROJECT_DIR$/d_prototype/d_prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/design_patterns.iml" filepath="$PROJECT_DIR$/design_patterns.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e_proxy/e_proxy.iml" filepath="$PROJECT_DIR$/e_proxy/e_proxy.iml" />
+    </modules>
+  </component>
+</project>
